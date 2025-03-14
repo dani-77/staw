@@ -7,17 +7,18 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8"> 
 </head> 
+<link rel="icon" type="image/png" href="/favicon.png"/>
 <body>
 	<div id="menu">
-{{if eq .Site "example.com"}}
-		<a class="thisSite" href="//example.com/">Home</a>
+{{if eq .Site "d77void.sourceforge.io"}}
+		<a class="thisSite" href="//d77void.sourceforge.io/">Home</a>
 {{else}}
-		<a href="//example.com/">Home</a>
+		<a href="//d77void.sourceforge.io/">Home</a>
 {{end}}
-{{if eq .Site "other.example.com"}}
-		<a class="thisSite" href="//other.example.com/">Other</a>
+{{if eq .Site "dani-77.github.io"}}
+		<a class="thisSite" href="//dani-77.github.io/">Personal Page</a>
 {{else}}
-		<a href="//other.example.com/">Other</a>
+		<a href="//dani-77.github.io/">Personal Page</a>
 {{end}}
 	</div>
 	<div id="header"><span class="siteTitle">{{.SiteTitle}}</span></div>
@@ -30,13 +31,17 @@
 			{{template "submenu" .}}
 			{{end}}
 			<li><a href="" class="empty"></a></li>
-		</ul>
 	</div>
 	{{end}}
 	<div id="main">
 	{{.HtmlContent}}
 	</div>
 
+	</div>
+	<div id="footer">
+	<small><a href="https://github.com/garbeam/staw">staw powered</a> &copy; 2025</small>
+
+	</div>
 	</div>
 </body>
 </html>
@@ -60,4 +65,5 @@
 			</ul>
 		{{end}}
 	</li>
+
 {{end}}
