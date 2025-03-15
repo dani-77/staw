@@ -1,6 +1,6 @@
 body {
-	background-color: #fff;
-	color: #333;
+	background-color: #24273a;
+	color:  #cad3f5;
 	font-family: 'Montserrat', sans-serif;
 	padding: 0;
 	margin: 0 auto 0 auto;
@@ -8,12 +8,12 @@ body {
 }
 
 a {
-	color: #039;
+	color: #91d7e3;
 	text-decoration: none;
 }
 
 a:hover {
-	background-color: #ddd;
+	background-color: #494d64;
 }
 
 h1, h2, h3, h4 {
@@ -50,26 +50,26 @@ h4 {
 }
 
 #menu a.thisSite {
-	color: #333;
+	color: #cad3f5;
 	font-weight: 600;
-	background-color: #eee;
-	border-left: 1px solid #ccc;
-	border-right: 1px solid #ccc;
-	border-top: 1px solid #ccc;
+	background-color: #181926;
+	border-left: 1px solid #181926;
+	border-right: 1px solid #181926;
+	border-top: 1px solid #181926;
 	border-top-right-radius: 6px;
 	border-top-left-radius: 6px;
-	border-bottom: 1px solid #eee;
+	border-bottom: 1px solid  #181926;
 }
 
 #header {
-	background-color: #eee;
+	background-color:  #181926;
 	clear: both;
 	overflow: hidden;
 	color: #666;
-	border-left: 1px solid #ccc;
-	border-right: 1px solid #ccc;
+	border-left: 1px solid #181926;
+	border-right: 1px solid #181926;
 	#border-bottom: 1px solid #ccc;
-	border-top: 1px solid #ccc;
+	border-top: 1px solid #181926;
 	border-top-right-radius: 6px;
 	font-size: 1.2em;
 	font-weight: 600;
@@ -91,8 +91,8 @@ h4 {
 }
 
 #nav {
-	background-color: #eee;
-	border-right: 1px solid #ccc;
+	background-color:  #181926;
+	border-right: 1px solid #181926;
 	border-bottom-right-radius: 9px;
 	font-size: 0.9em;
 	float: right;
@@ -116,30 +116,30 @@ h4 {
 	display: block;
 	margin: 0;
 	padding: 0.6em 0.6em 0.6em 1em;
-	border-left: 1px solid #ccc;
+	border-left: 1px solid #181926;
 }
 
 #nav li a.empty {
-	background-color: #eee;
-	border-bottom: 1px solid #ccc;
+	background-color:  #181926;
+	border-bottom: 1px solid #181926;
 	border-bottom-right-radius: 9px;
 }
 
 #nav li a.thisPath {
-	color: #333;
+	color:  #cad3f5;
 	font-weight: 600;
 }
 
 #nav li a.thisPage {
-	background-color: #fff;
-	color: #333;
+	background-color: #24273a;
+	color:  #cad3f5;
 	font-weight: 600;
-	border-top: 1px solid #ccc;
-	border-bottom: 1px solid #ccc;
+	border-top: 1px solid #181926;
+	border-bottom: 1px solid #181926;
 	border-top-right-radius: 6px;
 	border-bottom-right-radius: 6px;
-	border-left: 1px solid #fff;
-	border-right: 1px solid #ccc;
+	border-left: 1px solid #24273a;
+	border-right: 1px solid #181926;
 	margin: 0px 17.28px 0px 0px;	
 	padding: 8.64px 8.64px 8.64px 14.4px;
 }
@@ -147,20 +147,18 @@ h4 {
 #main {
 	margin: 0 0 1.5em 0;
 	padding: 0.5em 1em;
-	border-top: 1px solid #ccc;
+	border-top: 1px solid #181926;
 }
 
 #footer {
-	background-color: #eee;
-	border-top: 1px solid #ccc;
-	border-left: 1px solid #ccc;
-	border-right: 1px solid #ccc;
-	color: #333;
+	background-color:  #181926;
+	border-top: 1px solid #181926;
+	border-top-right-radius: 6px;
+	border-top-left-radius: 6px;
+	border-left: 1px solid #181926;
+	border-right: 1px solid #181926;
+	color:  #cad3f5;
 	padding: 0.5em 1em;
 	text-align: center;
 }
-	
-a:link {
-	color: green;
-	text-decoration: none;
-}
+
