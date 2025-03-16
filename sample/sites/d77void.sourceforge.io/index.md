@@ -31,7 +31,7 @@ and 3 more experimental WM:
 
 - awesome
 
-- letfWM
+- leftWM
 
 - niri
 

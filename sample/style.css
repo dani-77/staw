@@ -8,7 +8,7 @@ body {
 }
 
 a {
-	color: #91d7e3;
+	color: #BD93F9;
 	text-decoration: none;
 }
 
@@ -23,18 +23,22 @@ h1, h2, h3, h4 {
 
 h1 {
 	font-size: 1.4em;
+	color: #50FA7B;
 }
 
 h2 {
 	font-size: 1.2em;
+	color: #50FA7B;
 }
 
 h3 {
 	font-size: 1.1em;
+	color: #50FA7B;
 }
 
 h4 {
 	font-size: 1.0em;
+	color: #50FA7B;
 }
 
 #menu {
@@ -65,7 +69,7 @@ h4 {
 	background-color:  #181926;
 	clear: both;
 	overflow: hidden;
-	color: #666;
+	color: #BD93F9;
 	border-left: 1px solid #181926;
 	border-right: 1px solid #181926;
 	#border-bottom: 1px solid #ccc;

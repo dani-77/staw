@@ -16,7 +16,7 @@ you will be presented with this menu.
 
 Hit return
 
-![02](..c/01.png)
+![02](../01.png)
 
 # Keyboard
 
