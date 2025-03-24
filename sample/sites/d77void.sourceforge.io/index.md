@@ -25,6 +25,10 @@ Originally initiated as a Void respin with Fluxbox it has evolved to offer a wid
 
 - sway 
 
+- awesome (expermental)
+
+- leftWM (experimental)
+
 and the desktop environment:
 
 - LXQt.

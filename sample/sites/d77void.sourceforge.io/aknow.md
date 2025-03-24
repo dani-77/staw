@@ -1,22 +1,25 @@
 Acknowledgments
 -------------
 
-To my friends J.F. Correia and R. Gomez and my brother J.P. Azevedo, for testing, feedback and suggestions;
+I would like to extend my gratitude to my close friends J.F. Correia and R. Gomez, as well as my brother J.P. Azevedo, for their invaluable testing, feedback, and suggestions.
 
-To K. Figueroa and Johna1 for the work on Calamares port, making my life easier porting the same Calamares to d77void;
+I am also thankful to K. Figueroa and Johna1 for their contributions to the Calamares port, which significantly simplified the process of porting Calamares to d77void.
 
-To Void developers, for the system and tools like void-mklive and void-packages;
+A special thank you to the Void developers for their dedication to creating a robust system and providing useful tools like void-mklive and void-packages.
 
-To G. Parri, Crowz and TileOS for source of inspiration and showing the right way to do things;
+I am grateful for the inspiration and guidance provided by G. Parri (GabeeOS), Crowz, and TileOS, whose work has greatly influenced my approach.
 
-To A. Garbe, for the suckless philosophy and excellent tools like st, dwm, dmenu and staw, wich made this site easy to deploy;
+I am grateful for the contributions of A. Garbe, whose suckless philosophy and exceptional tools - including st, dwm, and dmenu - have greatly influenced my approach to minimalistic and efficient design.
 
-To Sourceforge, for kindly hosting the project;
+Additionally, Garbe's static site generator, staw, simplified the deployment process for this site.
 
-And last but not least, to my wife and kids, for the patience and time; without it this project wouldn't be possible.
+I would like to express my appreciation to Sourceforge for kindly hosting the project.
+
+Lastly, I would like to thank my wife and kids for their unwavering patience and support, without which this project would not have been possible.
 
 Thank you all!
 
 Daniel
+
 
 ![](../lol.jpeg)
