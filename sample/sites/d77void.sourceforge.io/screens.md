@@ -1,13 +1,27 @@
 Screenshots
 ----------
 
-Here are some samples of the different WM running in some of my machine;
+Here are some examples of various Window Managers running on my machine, presented in the order they are launched:
 
-In order are Hyprland, Labwc, LeftWM. Openbox, Qtile and Sway.
+- Hyprland
 
-All of them are with my configs, so expect some minor differences when you install them for the first time, like weather conditions, BAT and WIFI states.
+- Labwc
 
-But it is pretty much what you will see on boot. 
+- LeftWM
+
+- Openbox
+
+- Qtile
+
+- Sway
+
+Please note that each configuration is tailored to my specific setup, so minor variations may occur when you install them. You can expect to see the following differences:
+
+* Weather conditions
+* Battery (BAT) status
+* Wi-Fi state
+
+The displayed environment is a representation of what you can expect to see upon booting the system.
 
 ![Hyprland](../hyprland.png)
 
