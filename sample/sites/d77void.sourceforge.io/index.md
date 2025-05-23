@@ -25,9 +25,11 @@ Originally initiated as a Void respin with Fluxbox it has evolved to offer a wid
 
 - sway 
 
-and the desktop environment:
+and the desktop environments:
 
 - LXQt
+
+- XFCE
 
 ## Features
 
