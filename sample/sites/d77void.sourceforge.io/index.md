@@ -7,7 +7,11 @@ What is d77void GNU/Linux?
 
 It's a respin of Void GNU/Linux, created to demonstrate the capabilities of Void's tools, such as void-mklive and void-packages.
 
-Originally initiated as a Void respin with Fluxbox it has evolved to offer a wide range of options, including eight window managers:
+Originally initiated as a Void respin with Fluxbox it has evolved to offer a wide range of options, including the window managers:
+
+- awesome
+
+- bspwm
 
 - dwm
 
@@ -15,7 +19,11 @@ Originally initiated as a Void respin with Fluxbox it has evolved to offer a wid
 
 - hyprland
 
+- i3wm
+
 - labwc
+
+- leftwm
 
 - niri
 
@@ -24,6 +32,8 @@ Originally initiated as a Void respin with Fluxbox it has evolved to offer a wid
 - qtile
 
 - sway 
+
+- wayfire
 
 and the desktop environments:
 
