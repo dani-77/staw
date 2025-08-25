@@ -17,9 +17,13 @@ Originally initiated as a Void respin with Fluxbox it has evolved to offer a wid
 
 - fluxbox
 
+- herbstluftwm
+
 - hyprland
 
 - i3wm
+
+- jwm
 
 - labwc
 
@@ -30,6 +34,8 @@ Originally initiated as a Void respin with Fluxbox it has evolved to offer a wid
 - openbox
 
 - qtile
+
+- river
 
 - sway 
 
