@@ -53,7 +53,7 @@ and the desktop environments:
 
 Two user accounts are provided: anon and root, both with the password 'voidlinux'.
 
-The distribution can be installed using the tui d77void-installer; unfortunately Calamares is no longer supported.
+The distribution can be installed using the tui d77void-installer or Calamares.
 
 
 ## Download and Support
