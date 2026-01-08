@@ -3,17 +3,21 @@ Links
 
 ## OS
 
-- [Void](https://voidlinux.org/)
-
 - [AgarimOS](https://sourceforge.net/projects/agarimos/)
 
 - [Cereus](https://cereuslinuxproject.github.io/)
 
-- [GabeeOS](https://sourceforge.net/projects/gabeeoslinux/)
+- [Crowz](https://sourceforge.net/projects/crowz/)
 
 - [Crux](https://crux.nu)
 
+- [GabeeOS](https://sourceforge.net/projects/gabeeoslinux/)
+
 - [Sta.li](https://sta.li)
+
+- [TileOS](https://tile-os.com/)
+
+- [Void](https://voidlinux.org/)
 
 ## Personal
 
@@ -24,3 +28,13 @@ Links
 - [Twitter](https://twitter.com/daniazevedo77)
 
 - [BuyMeACoffee](https://buymeacoffee.com/d77void)
+
+## Interesting
+
+- [Dank](https://danklinux.com)
+
+- [Lazyvim](https://www.lazyvim.org/)
+
+- [Noctalia](https://noctalia.dev/)
+
+- [Suckless](https://suckless.org)
