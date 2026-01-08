@@ -37,4 +37,6 @@ Links
 
 - [Noctalia](https://noctalia.dev/)
 
+- [Penrose](https://www.sminez.dev/penrose/)
+
 - [Suckless](https://suckless.org)

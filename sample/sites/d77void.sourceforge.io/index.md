@@ -1,3 +1,10 @@
+1st Anniversary
+--------------
+
+To mark the date it was released a special edition with wmd77; it is a simple WM written by me with Penrose libs in Rust.
+
+Hope you appreciate it.
+
 Welcome
 ------
 
