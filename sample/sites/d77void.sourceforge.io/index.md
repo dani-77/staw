@@ -54,7 +54,11 @@ and the desktop environments:
 
 - Cosmic
 
+- Gnome
+
 - LXQt
+
+- Plasma
 
 - XFCE
 
