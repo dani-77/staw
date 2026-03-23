@@ -36,6 +36,8 @@ Originally initiated as a Void respin with Fluxbox it has evolved to offer a wid
 
 - leftwm
 
+- mangowc
+
 - niri
 
 - openbox
