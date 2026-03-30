@@ -31,6 +31,8 @@ Links
 
 ## Interesting
 
+- [Hacker Club](https://madeirahacker.club/)
+
 - [Dank](https://danklinux.com)
 
 - [Lazyvim](https://www.lazyvim.org/)
